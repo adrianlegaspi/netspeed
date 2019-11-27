@@ -27,7 +27,6 @@ export default {
       font-family: 'Ubuntu';
       font-style: normal;
       font-weight: 400;
-      src: local('Ubuntu'), url(http://example.com/fonts/ubuntu.woff) format('woff');
   }
 
   html{
