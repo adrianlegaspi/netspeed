@@ -1,0 +1,11 @@
+directories:
+  output: build
+  buildResources: build
+  app: build/bundled
+files:
+  - filter:
+      - '**'
+extends: null
+win:
+  icon: ./logo.png
+electronVersion: 6.1.5
